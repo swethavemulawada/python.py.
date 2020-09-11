@@ -1,0 +1,18 @@
+mydict = {
+  "hi":"hello"
+  
+}
+del mydict["hi"]
+print(mydict)
+
+
+
+mytuple = ("hi","hello","welcome")
+print(mytuple[1])
+
+
+
+
+
+Mylist["hi","hello","welcome"]
+Print(mylist)
